@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧸 Software Engineer student working to add value to projects and teams<br>🏹 Developed Servant Bible, a Bible reading site available to everyone.<br>🥼 Writing about my experience as a developer looking for results.<br>📚  #LearningInPublic en mi portfolio https://alvarosdev.framer.website<br>⏰ Currently studying Atomic Design and UX/UI.
+🧸 Software Engineer student working to add value to projects and teams<br>🏹 Developed Servant Bible, a Bible reading site available to everyone.<br>🥼 Writing about my experience as a developer looking for results.<br>📚  #LearningInPublic in my portfolio https://alvarosdev.framer.website<br>⏰ Currently studying Atomic Design and UX/UI.
 
 
 ## 🌐 Socials:
